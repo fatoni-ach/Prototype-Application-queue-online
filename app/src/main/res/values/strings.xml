@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Prototype Antrian Online</string>
+    <string-array name="jenis_pengobatan_array">
+        <item>Penyakit dalam</item>
+        <item>spesialis saraf</item>
+        <item>klinik bedah</item>
+    </string-array>
+    <string-array name="jenis_kelamin_array">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="gol_darah_array">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="status_menikah_array">
+        <item>Belum menikah</item>
+        <item>Menikah</item>
+    </string-array>
+</resources>
+
